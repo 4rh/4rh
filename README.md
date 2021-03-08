@@ -1,4 +1,4 @@
-### Hi there 👋
+### lol
 
 <!--
 **4rh/4rh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
