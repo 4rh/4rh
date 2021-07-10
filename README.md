@@ -1,6 +1,4 @@
-### lol
-
-![image](https://user-images.githubusercontent.com/48037291/125178666-ea2e1080-e19b-11eb-9205-c874c4246c1e.png)
+### mmm pizza
 
 <!--
 **4rh/4rh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
