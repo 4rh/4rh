@@ -1,6 +1,6 @@
 ### lol
 
-<blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://t.co/UJ0FzUTEgP">pic.twitter.com/UJ0FzUTEgP</a></p>&mdash; ؜ (@UpperCaseF) <a href="https://twitter.com/UpperCaseF/status/1412998446299049986?ref_src=twsrc%5Etfw">July 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+![image](https://user-images.githubusercontent.com/48037291/125178666-ea2e1080-e19b-11eb-9205-c874c4246c1e.png)
 
 <!--
 **4rh/4rh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
